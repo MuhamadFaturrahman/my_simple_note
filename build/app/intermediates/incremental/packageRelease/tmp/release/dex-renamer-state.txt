@@ -1,0 +1,4 @@
+#Sun Jun 04 11:19:10 ICT 2023
+base.0=D\:\\Formal\\Tugas\\Tugas Sem 6\\Prak PM\\Code\\pertemuan11\\simple_note\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
